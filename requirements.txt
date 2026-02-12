@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+flask
+pymongo
+certifi
+requests
+pytz
